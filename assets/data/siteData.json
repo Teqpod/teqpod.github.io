@@ -1,0 +1,149 @@
+{
+  "company": {
+    "name": "Teqpod Labs Private Limited",
+    "shortName": "TEQPOD",
+    "tagline": "Next Generation Tech Excellence"
+  },
+  "hero": {
+    "title": "Empowering Youth Through Innovation",
+    "subtitle": "Join the future of technology education. Experience cutting-edge internships, hackathons, and coding challenges that transform students into industry leaders.",
+    "ctaPrimary": "Start Your Journey",
+    "ctaSecondary": "Get In Touch"
+  },
+  "features": [
+    {
+      "icon": "🎓",
+      "title": "Premium Internships",
+      "description": "Immersive, project-based internships with cutting-edge technologies and mentorship from industry veterans, designed to accelerate your career trajectory."
+    },
+    {
+      "icon": "⚡",
+      "title": "AI-Powered Hackathons",
+      "description": "Revolutionary hackathons leveraging artificial intelligence, machine learning, and emerging technologies to solve real-world challenges."
+    },
+    {
+      "icon": "🏆",
+      "title": "Elite Coding Challenges",
+      "description": "Advanced algorithmic challenges and competitive programming competitions that sharpen your problem-solving skills to perfection."
+    },
+    {
+      "icon": "🚀",
+      "title": "Industry Readiness",
+      "description": "Comprehensive corporate preparation including agile methodologies, DevOps practices, and soft skills development for seamless industry integration."
+    },
+    {
+      "icon": "🧠",
+      "title": "Tech Intelligence Quizzes",
+      "description": "Dynamic, adaptive quizzes covering the latest in cloud computing, blockchain, IoT, and emerging technology stacks."
+    },
+    {
+      "icon": "🌐",
+      "title": "Global Network Access",
+      "description": "Connect with a worldwide community of tech enthusiasts, mentors, and industry leaders through our exclusive networking platform."
+    }
+  ],
+  "events": [
+    {
+      "title": "Neural Web Development Summit",
+      "description": "48-hour intensive exploration of AI-driven web development with React, Node.js, and machine learning integration.",
+      "date": "2024-12-15",
+      "type": "Summit",
+      "icon": "🧠"
+    },
+    {
+      "title": "Quantum Data Analytics Challenge",
+      "description": "Push the boundaries of data science with quantum computing principles and advanced analytics algorithms.",
+      "date": "2024-12-28",
+      "type": "Challenge",
+      "icon": "⚛️"
+    },
+    {
+      "title": "Next-Gen Mobile Innovation Lab",
+      "description": "Create revolutionary mobile experiences using AR/VR, IoT integration, and edge computing technologies.",
+      "date": "2025-01-10",
+      "type": "Lab",
+      "icon": "📱"
+    },
+    {
+      "title": "AI Ethics & Future Tech Symposium",
+      "description": "Deep dive into responsible AI development, blockchain governance, and the ethical implications of emerging technologies.",
+      "date": "2025-01-25",
+      "type": "Symposium",
+      "icon": "🤖"
+    }
+  ],
+  "stats": [
+    {
+      "number": "50",
+      "suffix": "+",
+      "label": "Students"
+    },
+    {
+      "number": "10",
+      "suffix": "+",
+      "label": "Innovation Events"
+    },
+    {
+      "number": "20",
+      "suffix": "+",
+      "label": "Industry Projects"
+    },
+    {
+      "number": "99",
+      "suffix": "%",
+      "label": "Success Rate"
+    }
+  ],
+  "contact": [
+    {
+      "icon": "✉️",
+      "title": "Email",
+      "value": "connect@teqpod.com",
+      "description": "Write to us for inquiries."
+    },
+    {
+      "icon": "🌐",
+      "title": "Digital Hub",
+      "value": "teqpod.com",
+      "description": "Our online presence."
+    }
+  ],
+  "footer": [
+    {
+      "title": "Innovation",
+      "links": [
+        {"text": "Research Labs", "url": "#research"},
+        {"text": "Tech Incubator", "url": "#incubator"},
+        {"text": "Patent Portfolio", "url": "#patents"},
+        {"text": "Future Vision", "url": "#vision"}
+      ]
+    },
+    {
+      "title": "Programs",
+      "links": [
+        {"text": "Elite Internships", "url": "#internships"},
+        {"text": "Hackathon Series", "url": "#hackathons"},
+        {"text": "Coding Mastery", "url": "#coding"},
+        {"text": "Tech Certification", "url": "#certification"}
+      ]
+    },
+    {
+      "title": "Community",
+      "links": [
+        {"text": "Developer Network", "url": "#network"},
+        {"text": "Tech Talks", "url": "#talks"},
+        {"text": "Open Source", "url": "#opensource"},
+        {"text": "Alumni Success", "url": "#alumni"}
+      ]
+    },
+    {
+      "title": "Connect",
+      "links": [
+        {"text": "LinkedIn", "url": "#linkedin"},
+        {"text": "GitHub", "url": "#github"},
+        {"text": "Discord", "url": "#discord"},
+        {"text": "Tech Blog", "url": "#blog"}
+      ]
+    }
+  ]
+}

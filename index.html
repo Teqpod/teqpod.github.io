@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teqpod Labs - Next Generation Tech Excellence</title>
+    <meta name="description" content="Empowering youth through innovative technology education, internships, hackathons, and coding challenges.">
+    
+    <!-- Preconnect for performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Favicon -->
+     <link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="./assets/favicon/site.webmanifest">
+    
+    <!-- Optimized font loading -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <!-- Main stylesheet -->
+    <link rel="stylesheet" href="./assets/css/styles.css">
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div id="loading-screen" class="loading-screen">
+        <div class="loading-content">
+            <div class="loading-logo">
+                <img src="./assets/images/logo.svg" alt="">
+            </div>
+            <div class="loading-progress">
+                <div class="progress-bar"></div>
+            </div>
+            <div class="loading-text">Initializing Innovation...</div>
+        </div>
+    </div>
+
+    <!-- Navigation -->
+    <nav id="navbar" class="navbar">
+        <div class="nav-container">
+            <a href="#home" class="nav-logo">
+                <div class="logo-icon">
+                    <img src="./assets/images/logo.svg" alt="footer-brand" srcset="">
+                </div>
+                <span class="logo-name">Teqpod</span>
+            </a>
+            
+            <div id="nav-menu" class="nav-menu">
+                <a href="#home" class="nav-link" data-section="home">
+                    <span class="nav-text">Home</span>
+                    <div class="nav-indicator"></div>
+                </a>
+                <a href="#about" class="nav-link" data-section="about">
+                    <span class="nav-text">About</span>
+                    <div class="nav-indicator"></div>
+                </a>
+                <a href="#features" class="nav-link" data-section="features">
+                    <span class="nav-text">Features</span>
+                    <div class="nav-indicator"></div>
+                </a>
+                <a href="#events" class="nav-link" data-section="events">
+                    <span class="nav-text">Events</span>
+                    <div class="nav-indicator"></div>
+                </a>
+                <a href="#contact" class="nav-link" data-section="contact">
+                    <span class="nav-text">Contact</span>
+                    <div class="nav-indicator"></div>
+                </a>
+            </div>
+            
+            <button id="mobile-menu-toggle" class="mobile-menu-toggle" aria-label="Toggle navigation">
+                <div class="hamburger-line"></div>
+                <div class="hamburger-line"></div>
+                <div class="hamburger-line"></div>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero-section">
+        <div class="hero-background">
+            <div id="hero-grid" class="hero-grid"></div>
+            <div id="floating-elements" class="floating-elements"></div>
+        </div>
+        
+        <div class="hero-content">
+            <div class="hero-badge">
+                <span class="badge-dot"></span>
+                <span class="badge-text">Next Generation Tech Excellence</span>
+            </div>
+            
+            <h1 class="hero-title">
+                <span class="title-line">Empowering Youth</span>
+                <span class="title-line">Through</span>
+                <span class="title-line title-highlight">Innovation</span>
+            </h1>
+            
+            <p class="hero-subtitle">
+                Transform your passion into expertise. Join cutting-edge internships, 
+                hackathons, and coding challenges that shape tomorrow's tech leaders.
+            </p>
+            
+            <div class="hero-actions">
+                <a href="#features" class="cta-primary">
+                    <span class="cta-text">Start Journey</span>
+                    <div class="cta-arrow">→</div>
+                </a>
+                <a href="#contact" class="cta-secondary">
+                    <span class="cta-text">Connect</span>
+                    <div class="cta-icon">💬</div>
+                </a>
+            </div>
+            
+            <div class="hero-terminal">
+                <div class="terminal-header">
+                    <div class="terminal-dots">
+                        <span class="dot dot-red"></span>
+                        <span class="dot dot-yellow"></span>
+                        <span class="dot dot-green"></span>
+                    </div>
+                    <div class="terminal-title">teqpod.sh</div>
+                </div>
+                <div class="terminal-body">
+                    <div class="terminal-line">
+                        <span class="prompt">$</span>
+                        <span class="command">teqpod --init student-journey</span>
+                    </div>
+                    <div id="terminal-output" class="terminal-output"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about-section">
+        <div class="section-container">
+            <div class="section-header">
+                <div class="section-tag">About Teqpod</div>
+                <h2 class="section-title">Shaping Tomorrow's<br>Tech Leaders</h2>
+                <p class="section-subtitle">
+                    We bridge the gap between academic learning and industry expertise 
+                    through hands-on experiences and cutting-edge methodologies.
+                </p>
+            </div>
+            
+            <div class="about-content">
+                <div class="about-text">
+                    <div class="text-block">
+                        <h3>Our Mission</h3>
+                        <p>To democratize access to world-class technology education and create pathways for students to excel in the digital economy.</p>
+                    </div>
+                    <div class="text-block">
+                        <h3>Our Approach</h3>
+                        <p>Practical, project-based learning combined with industry mentorship and real-world problem solving.</p>
+                    </div>
+                    <div class="text-block">
+                        <h3>Our Vision</h3>
+                        <p>This year we aiming to transform 50+ student into top level coding professionals with over 20+ industry level projects, 10+ innovation events like hackathon, online coding competitions and quizes.</p>
+                        <p>And we are expecting all with around 99% success rate.</p>
+                    </div>
+                </div>
+                
+                <div id="stats-grid" class="stats-grid">
+                    <!-- Stats will be populated by JavaScript -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features-section">
+        <div class="section-container">
+            <div class="section-header">
+                <div class="section-tag">What We Offer</div>
+                <h2 class="section-title">Revolutionary<br>Learning Experience</h2>
+                <p class="section-subtitle">
+                    Cutting-edge programs designed to transform passionate students 
+                    into industry-ready professionals.
+                </p>
+            </div>
+            
+            <div id="features-grid" class="features-grid">
+                <!-- Features will be populated by JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Events Section -->
+    <section id="events" class="events-section">
+        <div class="section-container">
+            <div class="section-header">
+                <div class="section-tag">Upcoming Events</div>
+                <h2 class="section-title">Innovation<br>Challenges</h2>
+                <p class="section-subtitle">
+                    Participate in competitions that push the boundaries of 
+                    technology and creativity.
+                </p>
+            </div>
+            
+            <div id="events-timeline" class="events-timeline">
+                <div class="timeline-line"></div>
+                <div id="events-container" class="events-container">
+                    <!-- Events will be populated by JavaScript -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact-section">
+        <div class="section-container">
+            <div class="section-header">
+                <div class="section-tag">Get In Touch</div>
+                <h2 class="section-title">Let's Build the<br>Future Together</h2>
+                <p class="section-subtitle">
+                    Ready to embark on an extraordinary tech journey? 
+                    Connect with us today.
+                </p>
+            </div>
+            
+            <div class="contact-content">
+                <div class="contact-form-container">
+                    <form id="contact-form" class="contact-form">
+                        <div class="form-group">
+                            <label for="name" class="form-label">Full Name</label>
+                            <input type="text" id="name" name="name" class="form-input" required>
+                            <div class="form-line"></div>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="email" class="form-label">Email Address</label>
+                            <input type="email" id="email" name="email" class="form-input" required>
+                            <div class="form-line"></div>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="message" class="form-label">Message</label>
+                            <textarea id="message" name="message" class="form-input form-textarea" rows="4" required></textarea>
+                            <div class="form-line"></div>
+                        </div>
+                        
+                        <button type="submit" class="form-submit">
+                            <span class="submit-text">Send Message</span>
+                            <div class="submit-arrow">→</div>
+                        </button>
+                    </form>
+                </div>
+                
+                <div id="contact-info" class="contact-info">
+                    <!-- Contact info will be populated by JavaScript -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-brand">
+                <div class="footer-logo">
+                    <img src="./assets/images/logo--white.svg" alt="">
+                    <span class="logo-text">Teqpod</span>
+                </div>
+                <p class="footer-tagline">Next Generation Tech Excellence</p>
+            </div>
+            
+            <div id="footer-links" class="footer-links">
+                <!-- Footer links will be populated by JavaScript -->
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <div class="footer-container">
+                <p class="footer-copyright">
+                    © 2025 Teqpod Labs Private Limited. All rights reserved.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Custom cursor (desktop only) -->
+    <div id="cursor" class="cursor">
+        <div class="cursor-dot"></div>
+        <div class="cursor-ring"></div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="./assets/js/dom-manager.js"></script>
+    <script src="./assets/js/animations.js"></script>
+    <script src="./assets/js/components.js"></script>
+    <script src="./assets/js/app.js"></script>
+</body>
+</html>
