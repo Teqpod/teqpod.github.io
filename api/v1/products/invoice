@@ -1,0 +1,68 @@
+{
+  "path": "/products/invoice",
+  "metaTitle": "Invoice | Teqpod",
+  "metaDescription": "Invoice is a paid, local-first desktop billing application from Teqpod Labs Private Limited.",
+  "name": "Invoice",
+  "publisher": "Teqpod Labs Private Limited",
+  "category": "Business software",
+  "accessLabel": "Paid",
+  "title": "Billing that stays close to your business.",
+  "introduction": "Create GST-ready invoices, manage the records behind them, and keep your day-to-day billing workspace available even when the internet is not.",
+  "highlights": ["Local data", "Live invoice preview", "Print-ready output"],
+  "promiseLabel": "Local by design",
+  "promiseTitle": "Your billing workflow should not depend on a permanent connection.",
+  "promiseDescription": "Invoice runs as a desktop application and stores business data locally. Core billing, history, records, PDF export, and printing remain available without a cloud dependency.",
+  "featuresLabel": "What it brings together",
+  "featuresTitle": "From the first line item to the final record.",
+  "features": [
+    {
+      "title": "GST-ready invoicing",
+      "description": "Build invoices with line items, tax calculations, place of supply, discounts, rounding, and amount in words."
+    },
+    {
+      "title": "Live preview and output",
+      "description": "Review the bill as it takes shape, then create a print-ready PDF or use native printing."
+    },
+    {
+      "title": "Reusable business records",
+      "description": "Maintain businesses, recipients, products, categories, and packages for faster repeat work."
+    },
+    {
+      "title": "History and payments",
+      "description": "Keep saved invoices, track payment status, review balances, and return to earlier work when needed."
+    },
+    {
+      "title": "Reports and GST summaries",
+      "description": "Review sales, outstanding amounts, GST summaries, and exportable operational reports."
+    },
+    {
+      "title": "Backup and access controls",
+      "description": "Support protected user access, activity records, and portable backups on eligible editions."
+    }
+  ],
+  "workflowLabel": "A direct workflow",
+  "workflowTitle": "Set up once. Bill with context.",
+  "workflow": [
+    {
+      "label": "Prepare",
+      "description": "Set up the business identity, invoice defaults, reusable products, and recipients you work with."
+    },
+    {
+      "label": "Create",
+      "description": "Choose the right records, add line items, and review totals in a live invoice preview."
+    },
+    {
+      "label": "Deliver",
+      "description": "Save the invoice locally, export a clean PDF, or print it directly from the desktop app."
+    },
+    {
+      "label": "Track",
+      "description": "Return to invoice history, record payments, and review business reporting from one workspace."
+    }
+  ],
+  "ctaLabel": "Invoice enquiries",
+  "ctaTitle": "See whether Invoice fits your billing workflow.",
+  "ctaDescription": "Tell us how your business handles invoices today and what you need from a local-first desktop workspace.",
+  "ctaSubject": "Invoice product enquiry",
+  "ctaActionLabel": "Ask about Invoice"
+}

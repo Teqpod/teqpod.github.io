@@ -1,0 +1,83 @@
+{
+  "title": "Search Teqpod",
+  "inputLabel": "What are you looking for?",
+  "placeholder": "Try software, training, Invoice, or PyOQ",
+  "initialPrompt": "Start typing to search the website.",
+  "noResultsTitle": "Nothing matched that search.",
+  "noResultsDescription": "Try a product name, capability, or a broader term.",
+  "resultsLabel": "Matches",
+  "records": [
+    {
+      "id": "home",
+      "title": "Teqpod",
+      "description": "Technology solutions and practical education connected by careful engineering.",
+      "category": "Home",
+      "href": "/",
+      "kind": "internal",
+      "keywords": ["engineering", "technology", "education", "software", "learning"]
+    },
+    {
+      "id": "technology",
+      "title": "Technology",
+      "description": "IT strategy, systems analysis, custom software, infrastructure operations, automation, and applied research.",
+      "category": "Practice",
+      "href": "/technology",
+      "kind": "internal",
+      "keywords": ["strategy", "systems", "software development", "infrastructure", "automation", "research", "organizations"]
+    },
+    {
+      "id": "education",
+      "title": "Education",
+      "description": "Computer science, IT, software-development training, workshops, skill development, and internships.",
+      "category": "Practice",
+      "href": "/education",
+      "kind": "internal",
+      "keywords": ["training", "workshops", "learners", "computer science", "skills", "internships"]
+    },
+    {
+      "id": "products",
+      "title": "Products",
+      "description": "Explore software products from Teqpod for businesses and engineering teams.",
+      "category": "Catalogue",
+      "href": "/products",
+      "kind": "internal",
+      "keywords": ["product catalogue", "software", "Invoice", "PyOQ"]
+    },
+    {
+      "id": "invoice",
+      "title": "Invoice",
+      "description": "A paid, local-first desktop billing workspace for GST-ready invoices, records, reports, PDF export, and printing.",
+      "category": "Product",
+      "href": "/products/invoice",
+      "kind": "internal",
+      "keywords": ["billing", "GST", "desktop", "offline", "payments", "reports", "PDF", "paid"]
+    },
+    {
+      "id": "pyoq",
+      "title": "PyOQ",
+      "description": "A free-to-use, fully typed, database-first SQL toolkit for Python.",
+      "category": "Product",
+      "href": "https://teqpod.com/pyoq-sql",
+      "kind": "external",
+      "keywords": ["Python", "SQL", "typed", "database", "SQLite", "PostgreSQL", "MySQL", "free"]
+    },
+    {
+      "id": "about",
+      "title": "About Teqpod",
+      "description": "Learn about Teqpod's purpose, approach, and operating principles.",
+      "category": "Company",
+      "href": "/about",
+      "kind": "internal",
+      "keywords": ["purpose", "approach", "principles", "company"]
+    },
+    {
+      "id": "contact",
+      "title": "Contact Teqpod",
+      "description": "Start a conversation about technology, education, or a Teqpod product.",
+      "category": "Contact",
+      "href": "/contact",
+      "kind": "internal",
+      "keywords": ["email", "enquiry", "connect", "conversation", "support"]
+    }
+  ]
+}

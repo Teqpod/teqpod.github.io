@@ -1,0 +1,38 @@
+{
+  "path": "/about",
+  "metaTitle": "About Teqpod",
+  "metaDescription": "Learn how Teqpod connects careful software engineering with practical technology education.",
+  "eyebrow": "About Teqpod",
+  "title": "A technology company with education built into its thinking.",
+  "introduction": "Teqpod Labs Private Limited works across software, IT systems, and technical education. We exist to help useful systems—and the people who create and operate them—become stronger together.",
+  "perspectiveLabel": "Our perspective",
+  "perspectiveTitle": "Capability is part of the system.",
+  "perspectiveParagraphs": [
+    "Technology only creates lasting value when people can understand it, use it, and improve it. That belief connects our work with organizations and our work with learners.",
+    "On one side, we analyse needs, design software, support computing environments, and explore better ways to automate work. On the other, we create practical learning in computer science, IT, software engineering, and system design.",
+    "The exchange matters. Real engineering keeps education grounded. Teaching technical ideas keeps engineering clear."
+  ],
+  "principlesLabel": "Operating principles",
+  "principlesTitle": "How we intend to work.",
+  "principles": [
+    {
+      "title": "Start with the need",
+      "description": "Understand the real problem and context before deciding what to build or teach."
+    },
+    {
+      "title": "Make it understandable",
+      "description": "Clear systems and clear explanations are both signs of disciplined thinking."
+    },
+    {
+      "title": "Design for use",
+      "description": "A solution should fit the people, processes, and environment it is meant to support."
+    },
+    {
+      "title": "Keep learning practical",
+      "description": "Connect concepts to application, reflection, and improvement."
+    }
+  ],
+  "ctaTitle": "Two paths. One engineering mindset.",
+  "ctaDescription": "Whether the need is organizational or educational, a useful conversation starts with context.",
+  "ctaActionLabel": "Contact Teqpod"
+}

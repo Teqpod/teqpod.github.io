@@ -1,0 +1,62 @@
+{
+  "path": "/technology",
+  "metaTitle": "Technology Solutions | Teqpod",
+  "metaDescription": "Explore Teqpod's technology capabilities across strategy, custom software, IT infrastructure, automation, and applied research.",
+  "eyebrow": "Technology for organizations",
+  "title": "Engineering shaped around the problem—not the template.",
+  "introduction": "We help organizations understand their technology needs, design practical systems, and build software and infrastructure that supports the way they operate.",
+  "capabilitiesLabel": "Core capabilities",
+  "capabilitiesTitle": "From direction to dependable systems.",
+  "capabilities": [
+    {
+      "title": "Technology strategy",
+      "description": "Systems analysis, technical advisory, and project direction for organizations planning meaningful digital change."
+    },
+    {
+      "title": "Custom software",
+      "description": "Purpose-built software designed, developed, modified, and tested around specific operational requirements."
+    },
+    {
+      "title": "Interface engineering",
+      "description": "Clear browser and desktop interfaces developed as an integral part of complete software solutions."
+    },
+    {
+      "title": "Infrastructure operations",
+      "description": "Support for servers, networks, computing environments, and the systems that keep day-to-day work moving."
+    },
+    {
+      "title": "Process automation",
+      "description": "Tools and workflows that reduce repetition, improve consistency, and make operations easier to manage."
+    },
+    {
+      "title": "Applied research",
+      "description": "Investigation, development, and deployment of technology approaches for emerging or complex needs."
+    }
+  ],
+  "approachLabel": "How we work",
+  "approachTitle": "Clarity before complexity.",
+  "approachDescription": "Every engagement starts with the operating context. The goal is not more technology; it is the right technology, understood and maintainable.",
+  "stages": [
+    {
+      "label": "Understand",
+      "description": "Define the real need, constraints, users, and existing environment."
+    },
+    {
+      "label": "Design",
+      "description": "Shape a coherent system and delivery path around those findings."
+    },
+    {
+      "label": "Build",
+      "description": "Implement and test the solution with disciplined engineering."
+    },
+    {
+      "label": "Support",
+      "description": "Help the system remain useful as operations and needs evolve."
+    }
+  ],
+  "ctaTitle": "Bring us the problem you are working through.",
+  "ctaDescription": "Share the context, constraints, and outcome you need. We will begin with a focused technology conversation.",
+  "ctaSubject": "Technology enquiry",
+  "ctaLabel": "Connect with Teqpod",
+  "ctaActionLabel": "Start a conversation"
+}

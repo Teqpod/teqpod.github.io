@@ -1,0 +1,25 @@
+{
+  "path": "/contact",
+  "metaTitle": "Contact Teqpod",
+  "metaDescription": "Contact Teqpod about technology solutions or practical technology education.",
+  "eyebrow": "Contact",
+  "title": "Start with the path that fits your enquiry.",
+  "introduction": "Choose the area closest to your need. Your email application will open with the right subject so you can share the useful context directly.",
+  "directEmailLabel": "Direct email",
+  "contactPaths": [
+    {
+      "eyebrow": "For organizations",
+      "title": "Discuss a technology need",
+      "description": "Tell us about the system, operational challenge, or technology direction you are considering.",
+      "subject": "Technology enquiry",
+      "actionLabel": "Email the technology team"
+    },
+    {
+      "eyebrow": "For learners and institutions",
+      "title": "Discuss education and training",
+      "description": "Tell us about the skills, audience, or learning context you want to develop.",
+      "subject": "Education enquiry",
+      "actionLabel": "Email the education team"
+    }
+  ]
+}

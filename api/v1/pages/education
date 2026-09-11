@@ -1,0 +1,62 @@
+{
+  "path": "/education",
+  "metaTitle": "Technology Education | Teqpod",
+  "metaDescription": "Explore Teqpod's practical education capabilities in computer science, IT, software development, workshops, and internships.",
+  "eyebrow": "Education for learners",
+  "title": "Technical learning connected to real practice.",
+  "introduction": "We create structured learning experiences that help students, graduates, and professionals build relevant capability in computer science, information technology, and software engineering.",
+  "capabilitiesLabel": "Learning pathways",
+  "capabilitiesTitle": "Build knowledge by applying it.",
+  "capabilities": [
+    {
+      "title": "Computer science foundations",
+      "description": "Learning experiences that strengthen the concepts behind dependable software and modern computing systems."
+    },
+    {
+      "title": "Information technology",
+      "description": "Practical understanding of the tools, infrastructure, and operational thinking used across technology environments."
+    },
+    {
+      "title": "Software development",
+      "description": "Structured practice in designing, building, testing, and improving software for real requirements."
+    },
+    {
+      "title": "Professional training",
+      "description": "Focused development for learners and working professionals building role-relevant technical capability."
+    },
+    {
+      "title": "Workshops",
+      "description": "Concentrated sessions that turn a technical topic into guided exploration and hands-on application."
+    },
+    {
+      "title": "Internships",
+      "description": "Practice-oriented learning designed to expose participants to software engineering, system design, and technology consulting."
+    }
+  ],
+  "approachLabel": "Learning model",
+  "approachTitle": "Understand. Make. Reflect. Improve.",
+  "approachDescription": "Technical fluency grows through repeated contact with ideas and implementation. Our learning approach keeps both in view.",
+  "stages": [
+    {
+      "label": "Learn the idea",
+      "description": "Build a clear mental model before reaching for tools."
+    },
+    {
+      "label": "Apply the idea",
+      "description": "Use the concept in a constrained, practical problem."
+    },
+    {
+      "label": "Examine the result",
+      "description": "Review decisions, trade-offs, and the quality of the outcome."
+    },
+    {
+      "label": "Extend the skill",
+      "description": "Carry the lesson into a more complex context."
+    }
+  ],
+  "ctaTitle": "Tell us what you want to learn or develop.",
+  "ctaDescription": "Share your background and the capability you want to build. We will direct the conversation to the right education pathway.",
+  "ctaSubject": "Education enquiry",
+  "ctaLabel": "Connect with Teqpod",
+  "ctaActionLabel": "Start a conversation"
+}

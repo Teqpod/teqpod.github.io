@@ -1,0 +1,53 @@
+{
+  "path": "/",
+  "metaTitle": "Teqpod | Technology and Education, Engineered Together",
+  "metaDescription": "Teqpod builds purposeful technology solutions and creates practical learning pathways in computer science, IT, and software development.",
+  "eyebrow": "Technology × Education",
+  "title": "Engineering progress,",
+  "highlightedTitle": "from system to skill.",
+  "introduction": "Teqpod brings software engineering and practical technology education into one focused practice—for organizations solving real problems and people preparing to solve what comes next.",
+  "signalLabel": "One practice, two paths",
+  "heroNote": "Built around clear thinking, useful systems, and skills that last beyond a single project.",
+  "scrollLabel": "Explore the practice",
+  "practicePrinciples": ["Purposeful systems", "Practical capability"],
+  "pathwaysLabel": "Teqpod practices",
+  "pathwaysTitle": "Built for the work. Built for the people doing it.",
+  "pathwaysDescription": "Choose the practice closest to your immediate need. Each begins with context and turns clear thinking into practical progress.",
+  "audiencePaths": [
+    {
+      "eyebrow": "For organizations",
+      "title": "Technology",
+      "description": "Strategy, custom software, systems support, and applied research designed around operational needs.",
+      "path": "/technology",
+      "actionLabel": "Explore technology",
+      "items": ["Technology strategy", "Custom software", "Systems operations"]
+    },
+    {
+      "eyebrow": "For learners",
+      "title": "Education",
+      "description": "Training, workshops, skill development, and internships grounded in the work of modern software teams.",
+      "path": "/education",
+      "actionLabel": "Explore education",
+      "items": ["Technical training", "Workshops", "Internships"]
+    }
+  ],
+  "bridgeLabel": "One connected practice",
+  "bridgeTitle": "One practice sharpens the other.",
+  "bridgeDescription": "Real engineering keeps learning grounded. Teaching technical ideas keeps engineering clear. Together, they create stronger systems and stronger capability.",
+  "bridgeSteps": [
+    {
+      "title": "Understand the context",
+      "description": "Begin with the real environment, constraints, people, and outcome."
+    },
+    {
+      "title": "Make the idea tangible",
+      "description": "Turn analysis into a system, workflow, exercise, or working model."
+    },
+    {
+      "title": "Build capability forward",
+      "description": "Use what was learned to improve the next decision and the next result."
+    }
+  ],
+  "bridgeActionLabel": "Start a conversation",
+  "bridgeActionPath": "/contact"
+}

@@ -1,0 +1,40 @@
+{
+  "path": "/products",
+  "metaTitle": "Products | Teqpod",
+  "metaDescription": "Explore software from Teqpod, including Invoice for local-first business billing and PyOQ for typed SQL in Python.",
+  "eyebrow": "Teqpod products",
+  "title": "Software made for serious work.",
+  "introduction": "Focused products for businesses and engineering teams, shaped around clear workflows, dependable foundations, and ownership of the work that matters.",
+  "catalogueLabel": "Product catalogue",
+  "catalogueTitle": "Explore the product catalogue.",
+  "products": [
+    {
+      "slug": "invoice",
+      "name": "Invoice",
+      "publisher": "Teqpod Labs Private Limited",
+      "category": "Business software",
+      "accessLabel": "Paid",
+      "summary": "A local-first desktop billing workspace for creating GST-ready invoices, managing business records, and keeping operational data on your own machine.",
+      "highlights": ["Offline-first", "GST-ready billing", "PDF and print"],
+      "destination": {
+        "kind": "internal",
+        "href": "/products/invoice",
+        "label": "Explore Invoice"
+      }
+    },
+    {
+      "slug": "pyoq",
+      "name": "PyOQ",
+      "publisher": "Teqpod Labs Private Limited",
+      "category": "Developer tooling",
+      "accessLabel": "Free to use",
+      "summary": "A fully typed, database-first SQL toolkit for Python with explicit query construction, generated schema types, and predictable execution.",
+      "highlights": ["Typed Python", "Database-first", "SQLite, PostgreSQL and MySQL"],
+      "destination": {
+        "kind": "external",
+        "href": "https://teqpod.com/pyoq-sql",
+        "label": "Visit PyOQ"
+      }
+    }
+  ]
+}
