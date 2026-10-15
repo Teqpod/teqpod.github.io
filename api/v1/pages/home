@@ -1,53 +1,31 @@
 {
   "path": "/",
-  "metaTitle": "Teqpod | Technology and Education, Engineered Together",
-  "metaDescription": "Teqpod builds purposeful technology solutions and creates practical learning pathways in computer science, IT, and software development.",
-  "eyebrow": "Technology × Education",
-  "title": "Engineering progress,",
-  "highlightedTitle": "from system to skill.",
-  "introduction": "Teqpod brings software engineering and practical technology education into one focused practice—for organizations solving real problems and people preparing to solve what comes next.",
-  "signalLabel": "One practice, two paths",
-  "heroNote": "Built around clear thinking, useful systems, and skills that last beyond a single project.",
-  "scrollLabel": "Explore the practice",
-  "practicePrinciples": ["Purposeful systems", "Practical capability"],
-  "pathwaysLabel": "Teqpod practices",
-  "pathwaysTitle": "Built for the work. Built for the people doing it.",
-  "pathwaysDescription": "Choose the practice closest to your immediate need. Each begins with context and turns clear thinking into practical progress.",
-  "audiencePaths": [
-    {
-      "eyebrow": "For organizations",
-      "title": "Technology",
-      "description": "Strategy, custom software, systems support, and applied research designed around operational needs.",
-      "path": "/technology",
-      "actionLabel": "Explore technology",
-      "items": ["Technology strategy", "Custom software", "Systems operations"]
-    },
-    {
-      "eyebrow": "For learners",
-      "title": "Education",
-      "description": "Training, workshops, skill development, and internships grounded in the work of modern software teams.",
-      "path": "/education",
-      "actionLabel": "Explore education",
-      "items": ["Technical training", "Workshops", "Internships"]
-    }
+  "metaTitle": "Teqpod — Software Products, Engineering and Education",
+  "metaDescription": "Teqpod creates focused software products, engineers custom technology systems, and delivers practical computer science and IT education.",
+  "eyebrow": "Products · Engineering · Education",
+  "title": "We build software, solve problems using technology, and teach the skills behind it.",
+  "introduction": "Teqpod creates focused software products, engineers custom systems for organizations, and delivers practical computer science and IT education.",
+  "primaryActionLabel": "Explore what we do",
+  "secondaryActionLabel": "Start a conversation",
+  "pillarsLabel": "What we do",
+  "pillars": [
+    { "eyebrow": "01 · Software products", "title": "Useful software, designed with intent.", "description": "We create focused products for business operations and software engineering work.", "path": "/products", "actionLabel": "Explore products", "capabilities": ["Business software", "Developer tooling", "Product engineering"] },
+    { "eyebrow": "02 · Engineering solutions", "title": "Technology shaped around the real problem.", "description": "We analyse, design, and build custom software, applied AI solutions, and systems that fit an organization’s operating context.", "path": "/technology", "actionLabel": "Explore engineering", "capabilities": ["Custom software", "Applied AI", "Infrastructure and automation"] },
+    { "eyebrow": "03 · Technology education", "title": "Technical learning grounded in practice.", "description": "We connect computer science and IT concepts to the work of making reliable systems.", "path": "/education", "actionLabel": "Explore education", "capabilities": ["Software development", "Workshops", "Internships"] }
   ],
-  "bridgeLabel": "One connected practice",
-  "bridgeTitle": "One practice sharpens the other.",
-  "bridgeDescription": "Real engineering keeps learning grounded. Teaching technical ideas keeps engineering clear. Together, they create stronger systems and stronger capability.",
-  "bridgeSteps": [
-    {
-      "title": "Understand the context",
-      "description": "Begin with the real environment, constraints, people, and outcome."
-    },
-    {
-      "title": "Make the idea tangible",
-      "description": "Turn analysis into a system, workflow, exercise, or working model."
-    },
-    {
-      "title": "Build capability forward",
-      "description": "Use what was learned to improve the next decision and the next result."
-    }
+  "spotlights": [
+    { "eyebrow": "Engineering solutions", "title": "From technical direction to dependable delivery.", "description": "Strategy, systems analysis, custom software, applied AI, interfaces, infrastructure, automation, and R&D—brought together around the outcome that matters.", "path": "/technology", "actionLabel": "See engineering capabilities", "capabilities": ["Technology strategy", "Applied AI systems", "Interface engineering"] },
+    { "eyebrow": "Technology education", "title": "Learn the idea. Apply it. Improve the result.", "description": "Practical education in computer science, IT, and software development through training, workshops, skill development, and internships.", "path": "/education", "actionLabel": "See education pathways", "capabilities": ["Computer science", "Professional training", "Guided practice"] }
   ],
-  "bridgeActionLabel": "Start a conversation",
-  "bridgeActionPath": "/contact"
+  "methodLabel": "How we operate",
+  "methodDescription": "A practical loop for making progress. Whether we are shaping a product, an engineering engagement, or a learning experience, the work stays close to context and evidence.",
+  "methodSteps": [
+    { "label": "01", "title": "Observe", "description": "Understand the environment, constraints, and people before choosing a direction." },
+    { "label": "02", "title": "Make", "description": "Turn the idea into a useful system, tool, or learning experience." },
+    { "label": "03", "title": "Examine", "description": "Test the result against its purpose and make the trade-offs visible." },
+    { "label": "04", "title": "Improve", "description": "Use what the work reveals to strengthen the next version or decision." }
+  ],
+  "ctaLabel": "Bring us the context",
+  "ctaDescription": "A product idea, a system challenge, or a learning goal can all start here. Tell us what you are trying to make possible. We will begin with the right questions.",
+  "ctaActionLabel": "Start an enquiry"
 }

@@ -7,11 +7,33 @@
   "category": "Business software",
   "accessLabel": "Paid",
   "title": "Billing that stays close to your business.",
-  "introduction": "Create GST-ready invoices, manage the records behind them, and keep your day-to-day billing workspace available even when the internet is not.",
-  "highlights": ["Local data", "Live invoice preview", "Print-ready output"],
+  "introduction": "Create GST-ready invoices and quotations, manage stock, record amounts received or remaining, and keep the sales ledger available even when the internet is not.",
+  "highlights": ["Stock and quotations", "Payment tracking", "Sales ledger"],
   "promiseLabel": "Local by design",
   "promiseTitle": "Your billing workflow should not depend on a permanent connection.",
   "promiseDescription": "Invoice runs as a desktop application and stores business data locally. Core billing, history, records, PDF export, and printing remain available without a cloud dependency.",
+  "showcaseLabel": "Inside Invoice",
+  "showcaseTitle": "A focused workspace for billing and the work around it.",
+  "screenshots": [
+    {
+      "src": "/products/invoice/billing-workspace.webp",
+      "alt": "Invoice desktop application showing a populated invoice form and live tax invoice preview using fictional data",
+      "title": "Compose and preview together",
+      "description": "Build the invoice on one side while totals and the print-ready document update alongside it."
+    },
+    {
+      "src": "/products/invoice/inventory-overview.webp",
+      "alt": "Invoice desktop application inventory overview with fictional products, stock levels, values, and expiry alerts",
+      "title": "See stock in context",
+      "description": "Review quantities, low-stock signals, valuation, and expiry information without leaving the workspace."
+    },
+    {
+      "src": "/products/invoice/reporting-overview.webp",
+      "alt": "Invoice desktop application reports view with fictional monthly sales and tax summaries",
+      "title": "Turn records into a clearer picture",
+      "description": "Explore sales, tax, party, business, and outstanding summaries with practical export options."
+    }
+  ],
   "featuresLabel": "What it brings together",
   "featuresTitle": "From the first line item to the final record.",
   "features": [
@@ -24,16 +46,16 @@
       "description": "Review the bill as it takes shape, then create a print-ready PDF or use native printing."
     },
     {
-      "title": "Reusable business records",
-      "description": "Maintain businesses, recipients, products, categories, and packages for faster repeat work."
+      "title": "Stock and reusable records",
+      "description": "Maintain products, categories, packages, customers, stock levels, and related records for faster repeat work."
     },
     {
-      "title": "History and payments",
-      "description": "Keep saved invoices, track payment status, review balances, and return to earlier work when needed."
+      "title": "Quotations and billing",
+      "description": "Prepare quotations before a sale, carry the right records into billing, and return to earlier documents when needed."
     },
     {
-      "title": "Reports and GST summaries",
-      "description": "Review sales, outstanding amounts, GST summaries, and exportable operational reports."
+      "title": "Payments and sales ledger",
+      "description": "Record billing amounts received and remaining, then review sales, outstanding balances, and GST summaries."
     },
     {
       "title": "Backup and access controls",

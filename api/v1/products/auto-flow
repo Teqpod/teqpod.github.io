@@ -1,0 +1,90 @@
+{
+  "path": "/products/auto-flow",
+  "metaTitle": "Auto-Flow | Zero-Code AI Workbench | Teqpod",
+  "metaDescription": "Compose AI agents, knowledge, skills, tools, code execution, and operational workflows visually without writing orchestration code.",
+  "name": "Auto-Flow",
+  "publisher": "Teqpod Labs Private Limited",
+  "category": "Zero-code AI workbench",
+  "accessLabel": "Paid",
+  "title": "Build complete AI systems without writing workflow code.",
+  "introduction": "Compose agents, knowledge, reusable skills, connected tools, decisions, and human review on one visual canvas without writing orchestration code. Auto-Flow gives teams a zero-code place to design, run, inspect, and improve complete AI-powered systems, with code execution available only where the work calls for it.",
+  "highlights": ["Zero-code composition", "Agents, knowledge and skills", "Tools and code execution"],
+  "promiseLabel": "Zero-code orchestration",
+  "promiseTitle": "Give every agent the context, abilities, and tools its work requires.",
+  "promiseDescription": "Connect agents, knowledge sources, skills, external services, and people visually. Start with one focused assistant or assemble a branching workbench for demanding work without hand-coding the orchestration layer.",
+  "showcaseLabel": "Inside Auto-Flow",
+  "showcaseTitle": "From a blank canvas to a completed run.",
+  "screenshots": [
+    {
+      "src": "/products/auto-flow/visual-agent-builder.jpg",
+      "alt": "Auto-Flow visual canvas showing a manual trigger, skill, tool, AI agent, and output connected as a workflow",
+      "title": "Compose an agent visually",
+      "description": "Connect a trigger, selected abilities, an AI agent, and an output visually while configuring each block in context."
+    },
+    {
+      "src": "/products/auto-flow/completed-agent-run.jpg",
+      "alt": "Auto-Flow canvas showing a successfully completed AI agent workflow and its run history",
+      "title": "See the run take shape",
+      "description": "Follow execution across the canvas and review completed runs without losing sight of the workflow."
+    },
+    {
+      "src": "/products/auto-flow/visual-automation-canvas.jpg",
+      "alt": "Auto-Flow canvas showing a simple manual trigger connected to an automatic output block",
+      "title": "Start with a simple flow",
+      "description": "Begin with a direct trigger-to-output path, then add decisions, tools, and agents as the work requires."
+    }
+  ],
+  "featuresLabel": "Building blocks",
+  "featuresTitle": "Everything needed to shape an AI system around the work.",
+  "features": [
+    {
+      "title": "Zero-code workflow canvas",
+      "description": "Arrange and connect agents, knowledge, skills, tools, decisions, and outputs visually while keeping the whole system understandable at a glance."
+    },
+    {
+      "title": "Purpose-built AI agents",
+      "description": "Combine an agent with the skills, tools, memory, and model configuration required for its specific task."
+    },
+    {
+      "title": "Flexible ways to start",
+      "description": "Begin interactively while designing, then run manually, on a schedule, or in response to an incoming event when the system is ready."
+    },
+    {
+      "title": "Connected tools and code execution",
+      "description": "Bring external services, focused utilities, and Code Runner workloads into the same flow instead of repeating work across separate interfaces."
+    },
+    {
+      "title": "Run visibility",
+      "description": "Watch progress on the canvas and return to run history when a result needs review or a workflow needs refinement."
+    },
+    {
+      "title": "Reusable starting points",
+      "description": "Learn from built-in examples and adapt an existing flow before assembling a process from the beginning."
+    }
+  ],
+  "workflowLabel": "From intent to AI system",
+  "workflowTitle": "Orchestrate intelligence, context, tools, and review without workflow code.",
+  "workflow": [
+    {
+      "label": "Choose the starting event",
+      "description": "Identify whether the work begins by hand, on a schedule, or in response to an incoming event."
+    },
+    {
+      "label": "Compose visually",
+      "description": "Add the agents, knowledge, skills, tools, optional code execution, and decisions needed to produce a useful result."
+    },
+    {
+      "label": "Connect and configure",
+      "description": "Make the sequence visible, give each block its focused settings, and keep responsibilities clear."
+    },
+    {
+      "label": "Run, inspect, improve",
+      "description": "Execute the flow, review what happened, and refine the workflow as the real task reveals more context."
+    }
+  ],
+  "ctaLabel": "Discuss Auto-Flow",
+  "ctaTitle": "Have an AI system you want to make tangible?",
+  "ctaDescription": "Tell us what the agents need to understand, which abilities and systems they should use, and where people should stay in control.",
+  "ctaSubject": "Auto-Flow product enquiry",
+  "ctaActionLabel": "Start an Auto-Flow enquiry"
+}

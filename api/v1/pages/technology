@@ -1,10 +1,10 @@
 {
   "path": "/technology",
-  "metaTitle": "Technology Solutions | Teqpod",
-  "metaDescription": "Explore Teqpod's technology capabilities across strategy, custom software, IT infrastructure, automation, and applied research.",
-  "eyebrow": "Technology for organizations",
-  "title": "Engineering shaped around the problem—not the template.",
-  "introduction": "We help organizations understand their technology needs, design practical systems, and build software and infrastructure that supports the way they operate.",
+  "metaTitle": "Engineering Solutions | Teqpod",
+  "metaDescription": "Explore Teqpod's engineering capabilities across strategy, custom software, applied AI, infrastructure, automation, and research.",
+  "eyebrow": "Engineering solutions",
+  "title": "Custom software and AI systems, engineered around the problem.",
+  "introduction": "We help organizations understand their technology needs, design practical systems, and build custom software, AI-enabled workflows, and infrastructure around the way they operate.",
   "capabilitiesLabel": "Core capabilities",
   "capabilitiesTitle": "From direction to dependable systems.",
   "capabilities": [
@@ -17,6 +17,10 @@
       "description": "Purpose-built software designed, developed, modified, and tested around specific operational requirements."
     },
     {
+      "title": "Applied AI solutions",
+      "description": "Custom AI-enabled systems that bring models, organizational knowledge, software tools, and human review together around a defined task."
+    },
+    {
       "title": "Interface engineering",
       "description": "Clear browser and desktop interfaces developed as an integral part of complete software solutions."
     },
@@ -26,7 +30,7 @@
     },
     {
       "title": "Process automation",
-      "description": "Tools and workflows that reduce repetition, improve consistency, and make operations easier to manage."
+      "description": "Conventional and AI-assisted workflows that reduce repetition, improve consistency, and keep important decisions visible."
     },
     {
       "title": "Applied research",
@@ -35,7 +39,7 @@
   ],
   "approachLabel": "How we work",
   "approachTitle": "Clarity before complexity.",
-  "approachDescription": "Every engagement starts with the operating context. The goal is not more technology; it is the right technology, understood and maintainable.",
+  "approachDescription": "Every engagement starts with the operating context. AI is used where it adds practical value; the goal is always the right technology, understood and maintainable.",
   "stages": [
     {
       "label": "Understand",
@@ -55,7 +59,7 @@
     }
   ],
   "ctaTitle": "Bring us the problem you are working through.",
-  "ctaDescription": "Share the context, constraints, and outcome you need. We will begin with a focused technology conversation.",
+  "ctaDescription": "Share the context, constraints, and outcome you need—whether the answer calls for custom software, applied AI, automation, or a combination of systems.",
   "ctaSubject": "Technology enquiry",
   "ctaLabel": "Connect with Teqpod",
   "ctaActionLabel": "Start a conversation"

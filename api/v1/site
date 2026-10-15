@@ -1,11 +1,11 @@
 {
   "brandName": "Teqpod",
   "legalName": "Teqpod Labs Private Limited",
-  "description": "Technology solutions and industry-focused education, connected by practical engineering.",
+  "description": "Software products, engineering solutions, and practical technology education.",
   "contactEmail": "connect@teqpod.com",
+  "defaultEmailSubject": "General enquiry for Teqpod",
   "navigation": [
-    { "label": "Home", "path": "/" },
-    { "label": "Technology", "path": "/technology" },
+    { "label": "Engineering", "path": "/technology" },
     { "label": "Education", "path": "/education" },
     { "label": "Products", "path": "/products" },
     { "label": "About", "path": "/about" },

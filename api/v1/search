@@ -1,7 +1,7 @@
 {
   "title": "Search Teqpod",
   "inputLabel": "What are you looking for?",
-  "placeholder": "Try software, training, Invoice, or PyOQ",
+  "placeholder": "Try software, training, Code Runner, or PyOQ",
   "initialPrompt": "Start typing to search the website.",
   "noResultsTitle": "Nothing matched that search.",
   "noResultsDescription": "Try a product name, capability, or a broader term.",
@@ -10,7 +10,7 @@
     {
       "id": "home",
       "title": "Teqpod",
-      "description": "Technology solutions and practical education connected by careful engineering.",
+      "description": "Software products, custom technology systems, and practical technical education.",
       "category": "Home",
       "href": "/",
       "kind": "internal",
@@ -18,18 +18,18 @@
     },
     {
       "id": "technology",
-      "title": "Technology",
-      "description": "IT strategy, systems analysis, custom software, infrastructure operations, automation, and applied research.",
-      "category": "Practice",
+      "title": "Engineering",
+      "description": "Technology strategy, custom software, applied AI solutions, infrastructure, automation, and research.",
+      "category": "Engineering solutions",
       "href": "/technology",
       "kind": "internal",
-      "keywords": ["strategy", "systems", "software development", "infrastructure", "automation", "research", "organizations"]
+      "keywords": ["strategy", "systems", "software development", "custom AI", "AI solutions", "AI workflows", "infrastructure", "automation", "research", "organizations"]
     },
     {
       "id": "education",
       "title": "Education",
       "description": "Computer science, IT, software-development training, workshops, skill development, and internships.",
-      "category": "Practice",
+      "category": "Technology education",
       "href": "/education",
       "kind": "internal",
       "keywords": ["training", "workshops", "learners", "computer science", "skills", "internships"]
@@ -41,25 +41,43 @@
       "category": "Catalogue",
       "href": "/products",
       "kind": "internal",
-      "keywords": ["product catalogue", "software", "Invoice", "PyOQ"]
+      "keywords": ["product catalogue", "software", "Invoice", "Auto-Flow", "Code Runner", "PyOQ"]
     },
     {
       "id": "invoice",
       "title": "Invoice",
-      "description": "A paid, local-first desktop billing workspace for GST-ready invoices, records, reports, PDF export, and printing.",
+      "description": "A paid, local-first desktop workspace for GST-ready invoices, quotations, stock, payment tracking, and sales reporting.",
       "category": "Product",
       "href": "/products/invoice",
       "kind": "internal",
-      "keywords": ["billing", "GST", "desktop", "offline", "payments", "reports", "PDF", "paid"]
+      "keywords": ["billing", "GST", "desktop", "offline", "stock", "quotations", "payments", "sales ledger", "reports", "PDF", "paid"]
+    },
+    {
+      "id": "auto-flow",
+      "title": "Auto-Flow",
+      "description": "A paid zero-code AI workbench for composing agents, knowledge, skills, tools, code execution, review, and operational workflows.",
+      "category": "Product",
+      "href": "/products/auto-flow",
+      "kind": "internal",
+      "keywords": ["zero-code AI workbench", "no-code AI", "AI agents", "multi-agent", "automation", "workflow", "knowledge", "skills", "tools", "code runner", "canvas", "paid"]
+    },
+    {
+      "id": "code-runner",
+      "title": "Code Runner",
+      "description": "A paid, language-agnostic execution service for running programs and tools in any configured runtime inside disposable isolated sandboxes.",
+      "category": "Product",
+      "href": "/products/code-runner",
+      "kind": "internal",
+      "keywords": ["code execution", "sandbox", "programming language", "runtime", "runtime profile", "runtime image", "scripts", "tools", "logs", "results", "paid"]
     },
     {
       "id": "pyoq",
       "title": "PyOQ",
-      "description": "A free-to-use, fully typed, database-first SQL toolkit for Python.",
+      "description": "A freeware, fully typed, database-first SQL toolkit for Python.",
       "category": "Product",
       "href": "https://teqpod.com/pyoq-sql",
       "kind": "external",
-      "keywords": ["Python", "SQL", "typed", "database", "SQLite", "PostgreSQL", "MySQL", "free"]
+      "keywords": ["Python", "SQL", "typed", "database", "SQLite", "PostgreSQL", "MySQL", "freeware", "free"]
     },
     {
       "id": "about",

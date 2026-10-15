@@ -1,0 +1,76 @@
+{
+  "path": "/products/code-runner",
+  "metaTitle": "Code Runner | Isolated Code Execution | Teqpod",
+  "metaDescription": "Code Runner executes programs and tools in any configured language or runtime inside disposable isolated sandboxes, with structured logs and results.",
+  "name": "Code Runner",
+  "publisher": "Teqpod Labs Private Limited",
+  "category": "Code execution infrastructure",
+  "accessLabel": "Paid",
+  "title": "One execution layer for any configured runtime.",
+  "introduction": "Send a program or tool through one execution API, regardless of its programming language. Code Runner selects its configured runtime profile, prepares a disposable isolated sandbox, captures the outcome, and removes the environment when the run is complete.",
+  "highlights": ["Language-agnostic execution", "Configurable runtime profiles", "Structured results"],
+  "promiseLabel": "Isolation by default",
+  "promiseTitle": "Each run gets a bounded environment of its own.",
+  "promiseDescription": "Submitted code executes away from the service process inside a short-lived sandbox with explicit resource controls. The caller receives status, logs, result data, and timing without inheriting the execution environment.",
+  "showcaseLabel": "Execution lifecycle",
+  "showcaseTitle": "One request. A controlled runtime. A structured result.",
+  "screenshots": [],
+  "showcaseFlow": {
+    "kind": "runner",
+    "label": "From request to isolated result",
+    "steps": ["Request", "Validate", "Runtime profile", "Dependencies", "Sandbox", "Any language", "Runtime image", "Toolchain", "Logs & result"]
+  },
+  "featuresLabel": "Execution capabilities",
+  "featuresTitle": "A focused boundary between applications and submitted code.",
+  "features": [
+    {
+      "title": "Runtime-agnostic execution",
+      "description": "Run programs in any programming language or runtime packaged as an execution profile, without changing the calling application or its integration contract."
+    },
+    {
+      "title": "Scripts and tools",
+      "description": "Execute a payload-oriented script or invoke a named tool with structured arguments through one versioned API."
+    },
+    {
+      "title": "Disposable sandboxes",
+      "description": "Create an isolated environment for each run and remove it across successful, failed, timed-out, and cancelled outcomes."
+    },
+    {
+      "title": "Explicit limits",
+      "description": "Apply bounded execution time, memory, CPU, output, and network access according to the needs of the workload."
+    },
+    {
+      "title": "Structured outcomes",
+      "description": "Return execution status, exit code, standard output, standard error, result data, and duration in one response."
+    },
+    {
+      "title": "Operational visibility",
+      "description": "Inspect available runtimes and service health, cancel work in progress, and identify sandboxes that need reclamation."
+    }
+  ],
+  "workflowLabel": "From source to result",
+  "workflowTitle": "Keep the execution lifecycle explicit.",
+  "workflow": [
+    {
+      "label": "Submit",
+      "description": "Provide source files, the runtime, a script payload or tool arguments, and the limits required for the run."
+    },
+    {
+      "label": "Prepare",
+      "description": "Validate the request, select the runtime profile, prepare dependencies, and create a disposable sandbox."
+    },
+    {
+      "label": "Execute",
+      "description": "Run the selected entry point with the requested constraints while capturing logs and the structured result."
+    },
+    {
+      "label": "Return and remove",
+      "description": "Return the completed outcome to the caller and remove the sandbox regardless of how the run ended."
+    }
+  ],
+  "ctaLabel": "Code Runner enquiries",
+  "ctaTitle": "Need a controlled execution layer for scripts, tools, or agent workflows?",
+  "ctaDescription": "Tell us which languages, runtimes, workloads, limits, and integration points your application needs.",
+  "ctaSubject": "Code Runner product enquiry",
+  "ctaActionLabel": "Ask about Code Runner"
+}

@@ -1,16 +1,16 @@
 {
   "path": "/about",
   "metaTitle": "About Teqpod",
-  "metaDescription": "Learn how Teqpod connects careful software engineering with practical technology education.",
+  "metaDescription": "Learn why Teqpod brings software products, engineering solutions, and practical technology education together.",
   "eyebrow": "About Teqpod",
-  "title": "A technology company with education built into its thinking.",
-  "introduction": "Teqpod Labs Private Limited works across software, IT systems, and technical education. We exist to help useful systems—and the people who create and operate them—become stronger together.",
+  "title": "Products, engineering, and education belong together.",
+  "introduction": "Teqpod Labs Private Limited creates software products, engineers technology systems, and develops practical technical learning. Each discipline makes the others more useful.",
   "perspectiveLabel": "Our perspective",
-  "perspectiveTitle": "Capability is part of the system.",
+  "perspectiveTitle": "Making, solving, and teaching sharpen the same craft.",
   "perspectiveParagraphs": [
-    "Technology only creates lasting value when people can understand it, use it, and improve it. That belief connects our work with organizations and our work with learners.",
-    "On one side, we analyse needs, design software, support computing environments, and explore better ways to automate work. On the other, we create practical learning in computer science, IT, software engineering, and system design.",
-    "The exchange matters. Real engineering keeps education grounded. Teaching technical ideas keeps engineering clear."
+    "Products force ideas to become coherent tools. Engineering work keeps those ideas anchored to operational reality. Education requires the thinking behind them to be clear enough to share.",
+    "Together, these disciplines create a productive exchange: real problems inform what we build, building improves how we solve, and teaching exposes what must be understood more deeply.",
+    "The common thread is practical technology—made carefully, explained clearly, and improved through use."
   ],
   "principlesLabel": "Operating principles",
   "principlesTitle": "How we intend to work.",
@@ -32,7 +32,7 @@
       "description": "Connect concepts to application, reflection, and improvement."
     }
   ],
-  "ctaTitle": "Two paths. One engineering mindset.",
-  "ctaDescription": "Whether the need is organizational or educational, a useful conversation starts with context.",
+  "ctaTitle": "Three disciplines. One practical technology mindset.",
+  "ctaDescription": "Whether you are considering a product, a system, or a learning need, a useful conversation starts with context.",
   "ctaActionLabel": "Contact Teqpod"
 }
